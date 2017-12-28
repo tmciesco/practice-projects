@@ -7,3 +7,21 @@ The website allows users to register, login, and create idea cards which can be 
 The bootstrap theme I used is from bootswatch.
 
 The website can be found at http://limitless-retreat-69056.herokuapp.com/
+
+Technologies used:
+
+-NodeJS
+
+-Express
+
+-MongoDB (and mlab)
+
+-Mongoose
+
+-Passport
+
+-Bcrypt
+
+-Heroku
+
+-Handlebars
